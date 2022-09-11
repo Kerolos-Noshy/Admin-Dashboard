@@ -1,7 +1,7 @@
 # Admin-Dashboard
 Responsive Admin Dashboard Using HTML CSS &amp; JavaScript with Light &amp; Dark Mode
 
-to open this web page [click here](https://kerolos-noshy.github.io/Admin-Dashboard/)
+:point_right: To open this web page **[Click here](https://kerolos-noshy.github.io/Admin-Dashboard/)**
 
 # Screen Shots
 ### Light Mode
