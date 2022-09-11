@@ -5,7 +5,7 @@ Responsive Admin Dashboard Using HTML CSS &amp; JavaScript with Light &amp; Dark
 
 # Screen Shots
 ### Light Mode
-![Light mode](https://github.com/Kerolos-Noshy/Admin-Dashboard/blob/main/images/Screenshot%202022-09-11%20133634.png)
+![Light mode](https://github.com/Kerolos-Noshy/Admin-Dashboard/blob/main/images/Screenshot%202022-09-11%20135600.png)
 
 ### Night Mode
-![Night mode](https://github.com/Kerolos-Noshy/Admin-Dashboard/blob/main/images/Screenshot%202022-09-11%20133655.png)
+![Night mode](https://github.com/Kerolos-Noshy/Admin-Dashboard/blob/main/images/Screenshot%202022-09-11%20135616.png)
